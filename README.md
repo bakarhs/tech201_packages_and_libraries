@@ -53,7 +53,7 @@ when you're building a program it's very important to think about if you need to
 - len()
 - type()
 
-#pip and packages
+# pip and packages
 pip is Python's package manager and installer
 ```python
 import requests
